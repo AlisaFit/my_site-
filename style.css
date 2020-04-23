@@ -63,14 +63,12 @@ color:#000000;
 
   .promo {  
    min-height: 464px;
- background-color: #000000;
- color:white;
- /*не получается сделать фоновое изображение
- background-image: url("img\Mask Group.jpg");
+   
+ background-image: url("../img/Mask Group.png");
  background-repeat:no-repeat;
  background-position:center;
  background-size: cover;
- */
+ color:white;
    }
 
 .promo h1 {
